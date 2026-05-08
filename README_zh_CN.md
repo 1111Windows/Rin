@@ -127,7 +127,7 @@ bun run deploy:client
 - `NAME`, `DESCRIPTION`, `AVATAR` - 站点配置
 - `R2_BUCKET_NAME` - 要使用的特定 R2 存储桶
 
-完整文档请访问 https://docs.openrin.org。
+完整文档请访问 https://docs.openrin.org
 
 ## 社区与支持
 
